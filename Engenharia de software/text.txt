@@ -1,1 +1,8 @@
-a
+Atividade 1
+A engenharia de software na pratica acaba sendo utilizada como um coringa em várias funçõoes dentre elas programação mas com um nome
+mais pomposo. E apesar de na prática não ser tão rigorosa quanto as outras engenharias(aeronáutica,cívil,mecânica), está se tornando mais padronizada 
+a medida que integramos ela em nosso cotidiano.
+
+Atividade 2
+Engenharia de software tem além de desenvolvimento do software, a manutenção o contínuo desenvolvimento para não haver depreciação e obsolecência do mesmo
+mantendo um ciclo de vida longo e sustentável.
